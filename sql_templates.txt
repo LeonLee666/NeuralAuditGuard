@@ -1,0 +1,1 @@
+SELECT * FROM votes WHERE phone_number = 1024 
